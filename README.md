@@ -29,7 +29,7 @@ Resetting passwords is a daily responsibility for IT support technicians and sys
 
 5. **Verified the Reset**
    - Confirmed the message:  
-     ✅ *“The password for Paul Hill has been changed.”*
+     ✅ *“The password for Guillermo Valdovinos has been changed.”*
    - The user was then able to log in and set a new password successfully.
 
 ---
